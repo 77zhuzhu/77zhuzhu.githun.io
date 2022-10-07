@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkvue_sph"]=self["webpackChunkvue_sph"]||[]).push([[446],{9446:function(u,n,e){e.r(n),e.d(n,{default:function(){return h}});var l=function(){var u=this,n=u._self._c;return n("div",[u._v(" 团购订单 ")])},s=[],t={},r=t,c=e(1001),f=(0,c.Z)(r,l,s,!1,null,null,null),h=f.exports}}]);
